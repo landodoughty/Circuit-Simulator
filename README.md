@@ -3,6 +3,8 @@ A circuit simulator for passive circuits containing resistors, inductors, capaci
 
 All code is provided broken down into general categorized files, most of these files have multiple classes within. A ZIP is also provided for the app itself, but you will have to dowload OpenJDK 17. If you do not want to do that, you can simply create a Processing sketch and add all the original code files and use that to run the program.
 
+You can find more about the program on my [website](https://landodoughty.github.io/projects/circuitSim/index.html).
+
 # USING THE PROGRAM
 
 **Placing Components**
