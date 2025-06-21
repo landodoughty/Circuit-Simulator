@@ -1,7 +1,7 @@
 # Circuit-Simulator
 A circuit simulator for passive circuits containing resistors, inductors, capacitors, and batteries
 
-All code is provided broken down into general categorized files, most of these files have multiple classes within. An EXE is also provided for the app itself.
+All code is provided broken down into general categorized files, most of these files have multiple classes within. A ZIP is also provided for the app itself, but you will have to dowload OpenJDK 17. If you do not want to do that, you can simply create a Processing sketch and add all the original code files and use that to run the program.
 
 # USING THE PROGRAM
 
